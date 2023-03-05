@@ -1,0 +1,35 @@
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.box {
+	width: 100%;
+	float: center;
+	padding: 200px;
+	box-sizing: border-box;
+}
+
+.box img {
+	width: 100%;
+}
+
+.box h2 {
+	margin-top: 0px;
+}
+
+.logo-box {
+	text-align: center;
+	padding: 20px 0;
+}
+
+.logo-box h1 {
+	font-size: 180px;
+	margin: 0;
+}
+
+.small-box {
+	text-align: center;
+	padding: 50px;
+	background-color: #ccc;
+}
